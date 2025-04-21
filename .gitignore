@@ -1,0 +1,60 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Pip environment files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Testing / coverage
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# dotenv / secrets (optional)
+.env
+.env.*
+
+# mypy, pylint, coverage reports
+.mypy_cache/
+.pytest_cache/
+coverage.xml
+*.cover
+
+# project specific directories
+/cache/
+*.pickle
+*.graphml
+*.gpkg
