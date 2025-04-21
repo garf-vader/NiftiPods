@@ -58,3 +58,4 @@ coverage.xml
 *.pickle
 *.graphml
 *.gpkg
+*.html
