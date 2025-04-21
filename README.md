@@ -4,14 +4,14 @@ Welcome to the NIFTI Traffic Simulation project! This repository contains the co
 
 ## Project Overview
 
-The NIFTI system aims to provide an alternative to traditional electric cars by utilizing a centrally controlled, autonomous vehicle network that operates on magnetic levitation technology. This project explores the potential of NIFTI to reduce congestion through traffic simulations and routing algorithms.
+The NIFTI system aims to provide an alternative to traditional electric cars by utilising a centrally controlled, autonomous vehicle network that operates on magnetic levitation technology. This project explores the potential of NIFTI to reduce congestion through traffic simulations and routing algorithms.
 
 ## Features
 
-- **MagLev Technology**: Simulates the use of magnetic levitation for efficient, zero-emissions travel.
-- **Autonomous Pods**: Models autonomous pods that follow predetermined routes to minimize congestion.
+- **MagLev Technology**: Simulates the use of magnetic levitation for efficient, zero-emission travel.
+- **Autonomous Pods**: Models autonomous pods that follow predetermined routes to minimise congestion.
 - **Traffic Simulations**: Conducts simulations to assess the impact of NIFTI on congestion in urban networks.
-- **Routing Algorithms**: Implements various routing algorithms, including Dijkstra's and Yen's algorithms, to optimize pod routes.
+- **Routing Algorithms**: Implements various routing algorithms, including Dijkstra's and Astar algorithms, to optimize pod routes.
 - **Graph-Based Network Modeling**: Utilizes graph theory to model road networks and simulate traffic flow.
 
 ## Getting Started
