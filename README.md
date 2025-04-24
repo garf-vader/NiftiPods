@@ -14,6 +14,12 @@ The NIFTI system aims to provide an alternative to traditional electric cars by 
 - **Routing Algorithms**: Implements various routing algorithms, including Dijkstra's and Astar algorithms, to optimize pod routes.
 - **Graph-Based Network Modeling**: Utilizes graph theory to model road networks and simulate traffic flow.
 
+## TODO
+
+- Documentation: Comments, docstrings, and READMEs to explain the code
+- Performance: Recreate loops in C for huge performance increases
+- Features: Add a real-time simulation where you can plot your route a la Google Maps
+
 ## Getting Started
 
 ### Prerequisites
